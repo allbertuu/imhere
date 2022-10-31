@@ -1,4 +1,4 @@
-# imhere ✉
+# imhere 🎫
 
 Nesse projeto, desenvolvi uma aplicação simples, simulando uma interface de lista de presença para eventos, que contém as seguintes funcionalidades:
 
